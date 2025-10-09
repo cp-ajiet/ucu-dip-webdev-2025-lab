@@ -1,0 +1,11 @@
+# Node/npm
+node_modules/
+.npmrc
+# Logs
+*.Logs
+npm-debug.log*
+# OS files
+.DS_Store
+Thumb.db
+# Env files
+.env
